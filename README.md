@@ -5,9 +5,9 @@ Dependent on:
 * [pycaw](https://github.com/AndreMiras/pycaw)
 * [spotilib](https://github.com/XanderMJ/spotilib)
 
-clone
-pip install https://github.com/AndreMiras/pycaw/archive/master.zip
-python quite-spotify.py
+* clone
+* pip install https://github.com/AndreMiras/pycaw/archive/master.zip
+* python quite-spotify.py
 
 Currently proof of concept, needs work...
 
