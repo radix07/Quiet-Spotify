@@ -8,3 +8,12 @@ Dependent on:
 clone
 pip install https://github.com/AndreMiras/pycaw/archive/master.zip
 python quite-spotify.py
+
+Currently proof of concept, needs work...
+
+Todo:
+* Complete re-write
+* Packaging
+* Testing
+* Turn into background process
+* CLI
